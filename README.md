@@ -1,7 +1,10 @@
 # TrabalhoIES
 
-Aluno: João Pedro Aragão Teixeira 
+Aluno(a): João Pedro Aragão Teixeira 
 email: joao.teixeira12@unioeste.br
+Aluno(a): Raquel Alves da Costa
+email: raquel.costa4@unioeste.br
+
 
 Grupo I - programa sequenciais simples
 Grupo II - explorando os comandos de controle de fluxo
