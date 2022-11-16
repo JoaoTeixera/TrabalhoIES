@@ -14,5 +14,6 @@ Grupo VIII – Matrizes (ENTREGUE)
 
 Foi utilizado o Online Gdb para a construção e testes dos codigos
 Uma IDE online com debugger e compilador para C/C++
+Foi utilizada também a IDE Visual Studio code, da Microsoft.
 
 Em cada pasta "Exercício x" estão os codigos "main.c" onde devem ser executados.
